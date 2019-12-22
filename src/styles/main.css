@@ -1,0 +1,9 @@
+@import './normalize.css';
+@import './reset.css';
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+}
